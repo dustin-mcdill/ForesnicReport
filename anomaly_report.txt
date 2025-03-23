@@ -1,0 +1,531 @@
+====== FORENSIC REPORT ======: 
+Report Generated On: 2025-03-23T09:22:47.943253
+Current User: dusti
+Hostname: Professional
+OS: Windows 11 10.0.22631
+Architecture: 64bit
+Processor: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+
+====== ACTIVE CONNECTIONS ======: 
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24311 | Status: TIME_WAIT
+Connection: 192.168.12.248:23973 --> 140.82.114.22:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24288 | Status: TIME_WAIT
+Connection: 0.0.0.0:7680 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24282 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24310 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24255 | Status: TIME_WAIT
+Connection: 127.0.0.1:27015 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:2015 --> N/A | Status: LISTEN
+Connection: 0.0.0.0:5050 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24315 | Status: TIME_WAIT
+Connection: 192.168.12.248:5353 --> N/A | Status: NONE
+Connection: 0.0.0.0:49667 --> N/A | Status: LISTEN
+Connection: :::5353 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24286 | Status: TIME_WAIT
+Connection: 192.168.12.248:138 --> N/A | Status: NONE
+Connection: 192.168.12.248:23977 --> 20.189.173.6:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:62103 --> N/A | Status: NONE
+Connection: 192.168.12.248:23964 --> 13.107.5.93:443 | Status: ESTABLISHED
+Connection: 0.0.0.0:445 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:24255 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:49811 --> N/A | Status: LISTEN
+Connection: 0.0.0.0:123 --> N/A | Status: NONE
+Connection: 127.0.0.1:24309 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24269 | Status: TIME_WAIT
+Connection: 192.168.12.248:8951 --> 18.214.173.230:443 | Status: ESTABLISHED
+Connection: 0.0.0.0:65368 --> N/A | Status: LISTEN
+Connection: :::49668 --> N/A | Status: NONE
+Connection: :::445 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24291 | Status: TIME_WAIT
+Connection: 192.168.12.248:24264 --> 192.168.12.1:53 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24302 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24308 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24293 | Status: TIME_WAIT
+Connection: :::3306 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24275 | Status: TIME_WAIT
+Connection: 127.0.0.1:24292 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:1900 --> N/A | Status: NONE
+Connection: 127.0.0.1:49735 --> 127.0.0.1:49736 | Status: ESTABLISHED
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24313 | Status: TIME_WAIT
+Connection: 0.0.0.0:49665 --> N/A | Status: LISTEN
+Connection: 192.168.12.248:137 --> N/A | Status: NONE
+Connection: 127.0.0.1:5354 --> 127.0.0.1:49672 | Status: ESTABLISHED
+Connection: :::33060 --> N/A | Status: LISTEN
+Connection: :::500 --> N/A | Status: NONE
+Connection: 127.0.0.1:5354 --> 127.0.0.1:49673 | Status: ESTABLISHED
+Connection: 127.0.0.1:24256 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:49675 --> 127.0.0.1:49676 | Status: ESTABLISHED
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24296 | Status: TIME_WAIT
+Connection: 127.0.0.1:49672 --> 127.0.0.1:5354 | Status: ESTABLISHED
+Connection: 192.168.12.248:16591 --> 54.152.164.17:443 | Status: ESTABLISHED
+Connection: 0.0.0.0:49666 --> N/A | Status: LISTEN
+Connection: 2607:fb90:a131:8b99:6cb0:c9c7:2e9d:8495:22575 --> 2606:50c0:8001::154:443 | Status: ESTABLISHED
+Connection: 192.168.12.248:1900 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24278 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24267 | Status: TIME_WAIT
+Connection: 2607:fb90:a131:8b99:6cb0:c9c7:2e9d:8495:64725 --> 2607:f8b0:4023:1419::bc:5228 | Status: ESTABLISHED
+Connection: :::65180 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24262 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24277 | Status: TIME_WAIT
+Connection: 127.0.0.1:24313 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24272 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24301 | Status: TIME_WAIT
+Connection: 192.168.12.248:23761 --> 34.234.49.22:443 | Status: ESTABLISHED
+Connection: 192.168.12.248:23721 --> 54.162.208.174:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:53381 --> N/A | Status: LISTEN
+Connection: :::5353 --> N/A | Status: NONE
+Connection: 0.0.0.0:5355 --> N/A | Status: NONE
+Connection: 192.168.12.248:23756 --> 54.162.208.174:443 | Status: ESTABLISHED
+Connection: :::4500 --> N/A | Status: NONE
+Connection: 127.0.0.1:24307 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:24311 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: :::7680 --> N/A | Status: LISTEN
+Connection: 0.0.0.0:33060 --> N/A | Status: LISTEN
+Connection: 2607:fb90:a131:8b99:6cb0:c9c7:2e9d:8495:49439 --> 2603:1030:608:7::401:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:24283 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:24316 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24271 | Status: TIME_WAIT
+Connection: ::1:5353 --> N/A | Status: NONE
+Connection: :::49667 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49677 --> 127.0.0.1:49678 | Status: ESTABLISHED
+Connection: 0.0.0.0:5040 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24257 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24259 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24297 | Status: TIME_WAIT
+Connection: 127.0.0.1:49676 --> 127.0.0.1:49675 | Status: ESTABLISHED
+Connection: 127.0.0.1:24295 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: :::59148 --> N/A | Status: NONE
+Connection: :::123 --> N/A | Status: NONE
+Connection: 127.0.0.1:49736 --> 127.0.0.1:49735 | Status: ESTABLISHED
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24304 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24292 | Status: TIME_WAIT
+Connection: :::49665 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:24272 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 192.168.12.248:24265 --> 192.168.12.1:53 | Status: TIME_WAIT
+Connection: 0.0.0.0:5353 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24263 | Status: TIME_WAIT
+Connection: 2607:fb90:a131:8b99:6cb0:c9c7:2e9d:8495:23967 --> 2620:1ec:bdf::51:443 | Status: ESTABLISHED
+Connection: 192.168.12.248:23711 --> 44.220.98.213:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:49664 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24314 | Status: TIME_WAIT
+Connection: 0.0.0.0:4500 --> N/A | Status: NONE
+Connection: 127.0.0.1:24284 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:24262 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:24301 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:49907 --> 127.0.0.1:49905 | Status: ESTABLISHED
+Connection: 127.0.0.1:64321 --> N/A | Status: LISTEN
+Connection: :::135 --> N/A | Status: LISTEN
+Connection: 0.0.0.0:500 --> N/A | Status: NONE
+Connection: 0.0.0.0:59148 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24295 | Status: TIME_WAIT
+Connection: 127.0.0.1:49673 --> 127.0.0.1:5354 | Status: ESTABLISHED
+Connection: 0.0.0.0:6646 --> N/A | Status: NONE
+Connection: 2607:fb90:a131:8b99:6cb0:c9c7:2e9d:8495:23976 --> 2620:1ec:bdf::51:443 | Status: ESTABLISHED
+Connection: 0.0.0.0:60478 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24279 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24285 | Status: TIME_WAIT
+Connection: fe80::18ca:691b:3fe6:33d2:1900 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24261 | Status: TIME_WAIT
+Connection: 2607:fb90:a131:8b99:6cb0:c9c7:2e9d:8495:24119 --> 2406:da00:ff00::3d5:f34:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:49666 --> N/A | Status: NONE
+Connection: 127.0.0.1:24314 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: ::1:1900 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24290 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24305 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24283 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24289 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24274 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24256 | Status: TIME_WAIT
+Connection: fe80::18ca:691b:3fe6:33d2:62100 --> N/A | Status: NONE
+Connection: :::49664 --> N/A | Status: LISTEN
+Connection: :::60478 --> N/A | Status: NONE
+Connection: 192.168.12.248:139 --> N/A | Status: LISTEN
+Connection: ::1:42050 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:64322 --> N/A | Status: LISTEN
+Connection: 2607:fb90:a131:8b99:6cb0:c9c7:2e9d:8495:22534 --> 2606:4700:4400::6812:202f:443 | Status: ESTABLISHED
+Connection: 192.168.12.248:23327 --> 185.199.110.154:443 | Status: ESTABLISHED
+Connection: 192.168.12.248:62102 --> N/A | Status: NONE
+Connection: 127.0.0.1:24285 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: :::5355 --> N/A | Status: NONE
+Connection: :::5353 --> N/A | Status: NONE
+Connection: 127.0.0.1:49905 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49665 --> N/A | Status: NONE
+Connection: 127.0.0.1:49730 --> 127.0.0.1:49731 | Status: ESTABLISHED
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24276 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24270 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24258 | Status: TIME_WAIT
+Connection: 0.0.0.0:3306 --> N/A | Status: LISTEN
+Connection: ::1:62101 --> N/A | Status: NONE
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24309 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24298 | Status: TIME_WAIT
+Connection: 0.0.0.0:49671 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24280 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24303 | Status: TIME_WAIT
+Connection: 192.168.12.248:24266 --> 192.168.12.1:53 | Status: TIME_WAIT
+Connection: 192.168.12.248:22671 --> 34.107.204.85:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:24312 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 0.0.0.0:6646 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:24310 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 192.168.12.248:23720 --> 54.162.208.174:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:49905 --> 127.0.0.1:49907 | Status: ESTABLISHED
+Connection: 127.0.0.1:5354 --> N/A | Status: LISTEN
+Connection: 0.0.0.0:5353 --> N/A | Status: NONE
+Connection: 192.168.12.248:22902 --> 140.82.113.26:443 | Status: ESTABLISHED
+Connection: 192.168.12.248:23779 --> 34.110.214.126:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24307 | Status: TIME_WAIT
+Connection: 0.0.0.0:5353 --> N/A | Status: NONE
+Connection: 0.0.0.0:65180 --> N/A | Status: NONE
+Connection: :::65368 --> N/A | Status: LISTEN
+Connection: 2607:fb90:a131:8b99:6cb0:c9c7:2e9d:8495:22533 --> 2606:4700:4400::ac40:9bd1:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24316 | Status: CLOSING
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24306 | Status: TIME_WAIT
+Connection: 127.0.0.1:24280 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 0.0.0.0:49674 --> N/A | Status: LISTEN
+Connection: 192.168.12.248:8954 --> 34.195.221.223:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24284 | Status: TIME_WAIT
+Connection: 0.0.0.0:49667 --> N/A | Status: NONE
+Connection: 0.0.0.0:135 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49791 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49731 --> 127.0.0.1:49730 | Status: ESTABLISHED
+Connection: 127.0.0.1:49678 --> 127.0.0.1:49677 | Status: ESTABLISHED
+Connection: :::49671 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:24296 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 127.0.0.1:24270 --> 127.0.0.1:49810 | Status: TIME_WAIT
+Connection: 192.168.12.248:23784 --> 18.160.213.4:443 | Status: ESTABLISHED
+Connection: :::49674 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24287 | Status: TIME_WAIT
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24260 | Status: TIME_WAIT
+Connection: 192.168.12.248:23637 --> 54.162.208.174:443 | Status: ESTABLISHED
+Connection: 0.0.0.0:49664 --> N/A | Status: LISTEN
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24312 | Status: TIME_WAIT
+Connection: :::49666 --> N/A | Status: LISTEN
+Connection: 192.168.12.248:23703 --> 34.107.204.85:443 | Status: ESTABLISHED
+Connection: 127.0.0.1:49810 --> 127.0.0.1:24294 | Status: TIME_WAIT
+Connection: 192.168.12.248:23710 --> 44.220.98.213:443 | Status: ESTABLISHED
+
+====== SUSPICIOUS PROCESSES ======: 
+⚠️ Anomaly: PID 0 (System Idle Process) - User: NT AUTHORITY\SYSTEM
+⚠️ Anomaly: PID 4 (System) - User: NT AUTHORITY\SYSTEM
+⚠️ Anomaly: PID 172 () - User: None
+⚠️ Anomaly: PID 212 (Registry) - User: None
+⚠️ Anomaly: PID 736 (smss.exe) - User: None
+⚠️ Anomaly: PID 1160 (csrss.exe) - User: None
+⚠️ Anomaly: PID 1312 (wininit.exe) - User: None
+⚠️ Anomaly: PID 1320 (csrss.exe) - User: None
+⚠️ Anomaly: PID 1392 (services.exe) - User: None
+⚠️ Anomaly: PID 1400 (LsaIso.exe) - User: None
+⚠️ Anomaly: PID 1424 (lsass.exe) - User: None
+⚠️ Anomaly: PID 1492 (winlogon.exe) - User: None
+⚠️ Anomaly: PID 1624 (svchost.exe) - User: None
+⚠️ Anomaly: PID 1652 (fontdrvhost.exe) - User: None
+⚠️ Anomaly: PID 1656 (fontdrvhost.exe) - User: None
+⚠️ Anomaly: PID 1756 (WUDFHost.exe) - User: None
+⚠️ Anomaly: PID 1800 (svchost.exe) - User: None
+⚠️ Anomaly: PID 1848 (svchost.exe) - User: None
+⚠️ Anomaly: PID 1868 (svchost.exe) - User: None
+⚠️ Anomaly: PID 1960 (svchost.exe) - User: None
+⚠️ Anomaly: PID 1968 (svchost.exe) - User: None
+⚠️ Anomaly: PID 1988 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2016 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2024 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2032 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2056 (HPAudioSwitch.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 2084 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2092 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2116 (jusched.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 2156 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2172 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2308 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2356 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2424 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2464 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2488 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2528 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2552 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2572 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2628 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2668 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2684 (WUDFHost.exe) - User: None
+⚠️ Anomaly: PID 2696 (atieclxx.exe) - User: None
+⚠️ Anomaly: PID 2792 (dwm.exe) - User: None
+⚠️ Anomaly: PID 2844 (svchost.exe) - User: None
+⚠️ Anomaly: PID 2916 (svchost.exe) - User: None
+⚠️ Anomaly: PID 3000 (svchost.exe) - User: None
+⚠️ Anomaly: PID 3148 (svchost.exe) - User: None
+⚠️ Anomaly: PID 3208 (TouchpointGpuInfo.exe) - User: None
+⚠️ Anomaly: PID 3236 (RuntimeBroker.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 3292 (svchost.exe) - User: None
+⚠️ Anomaly: PID 3312 (svchost.exe) - User: None
+⚠️ Anomaly: PID 3332 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 3424 (svchost.exe) - User: None
+⚠️ Anomaly: PID 3440 (dasHost.exe) - User: None
+⚠️ Anomaly: PID 3496 (svchost.exe) - User: None
+⚠️ Anomaly: PID 3512 (svchost.exe) - User: None
+⚠️ Anomaly: PID 3544 (SynTPEnhService.exe) - User: None
+⚠️ Anomaly: PID 3620 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 3644 (RuntimeBroker.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 3712 (RtkAudUService64.exe) - User: None
+⚠️ Anomaly: PID 3752 (svchost.exe) - User: None
+⚠️ Anomaly: PID 3792 (amdfendrsr.exe) - User: None
+⚠️ Anomaly: PID 3800 (atiesrxx.exe) - User: None
+⚠️ Anomaly: PID 3812 (svchost.exe) - User: None
+⚠️ Anomaly: PID 4112 (MemCompression) - User: None
+⚠️ Anomaly: PID 4156 (svchost.exe) - User: None
+⚠️ Anomaly: PID 4204 (svchost.exe) - User: None
+⚠️ Anomaly: PID 4212 (svchost.exe) - User: None
+⚠️ Anomaly: PID 4220 (TouchpointAnalyticsClientService.exe) - User: None
+⚠️ Anomaly: PID 4348 (mcafee-security.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 4464 (svchost.exe) - User: None
+⚠️ Anomaly: PID 4564 (svchost.exe) - User: None
+⚠️ Anomaly: PID 4744 (audiodg.exe) - User: None
+⚠️ Anomaly: PID 4748 (svchost.exe) - User: None
+⚠️ Anomaly: PID 4812 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 4848 (svchost.exe) - User: None
+⚠️ Anomaly: PID 4900 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5092 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5156 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5224 (cmd.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 5236 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5260 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5284 (spoolsv.exe) - User: None
+⚠️ Anomaly: PID 5356 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5432 (AMDRSSrcExt.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 5488 (wlanext.exe) - User: None
+⚠️ Anomaly: PID 5496 (conhost.exe) - User: None
+⚠️ Anomaly: PID 5520 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5584 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 5680 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5740 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5768 (AppleMobileDeviceService.exe) - User: None
+⚠️ Anomaly: PID 5788 (nssm.exe) - User: None
+⚠️ Anomaly: PID 5796 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5804 (HPCommRecovery.exe) - User: None
+⚠️ Anomaly: PID 5812 (mDNSResponder.exe) - User: None
+⚠️ Anomaly: PID 5820 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5828 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5836 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5844 (SECOMN64.exe) - User: None
+⚠️ Anomaly: PID 5852 (mfemms.exe) - User: None
+⚠️ Anomaly: PID 5860 (svchost.exe) - User: None
+⚠️ Anomaly: PID 5868 (PEFService.exe) - User: None
+⚠️ Anomaly: PID 5876 (ModuleCoreService.exe) - User: None
+⚠️ Anomaly: PID 5884 (mysqld.exe) - User: None
+⚠️ Anomaly: PID 5896 (svchost.exe) - User: None
+⚠️ Anomaly: PID 6092 (svchost.exe) - User: None
+⚠️ Anomaly: PID 6128 (ModuleCoreService.exe) - User: None
+⚠️ Anomaly: PID 6252 (logi_lamparray_service.exe) - User: None
+⚠️ Anomaly: PID 6276 (MpDefenderCoreService.exe) - User: None
+⚠️ Anomaly: PID 6332 (MsMpEng.exe) - User: None
+⚠️ Anomaly: PID 6348 (mysqld.exe) - User: None
+⚠️ Anomaly: PID 6404 (expressvpnd.exe) - User: None
+⚠️ Anomaly: PID 6420 (conhost.exe) - User: None
+⚠️ Anomaly: PID 6476 (conhost.exe) - User: None
+⚠️ Anomaly: PID 6904 (svchost.exe) - User: None
+⚠️ Anomaly: PID 6984 (svchost.exe) - User: None
+⚠️ Anomaly: PID 7292 (MMSSHOST.exe) - User: None
+⚠️ Anomaly: PID 7364 (svchost.exe) - User: None
+⚠️ Anomaly: PID 7392 (svchost.exe) - User: None
+⚠️ Anomaly: PID 7572 (ProtectedModuleHost.exe) - User: None
+⚠️ Anomaly: PID 7668 (svchost.exe) - User: None
+⚠️ Anomaly: PID 7884 (mfevtps.exe) - User: None
+⚠️ Anomaly: PID 7916 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 7948 (ExpressVPNNotificationService.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 8064 (HPEnhancedLighting.Bg.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 8308 (Robocopy.exe) - User: None
+⚠️ Anomaly: PID 8364 (servicehost.exe) - User: None
+⚠️ Anomaly: PID 8784 (AggregatorHost.exe) - User: None
+⚠️ Anomaly: PID 8992 (unsecapp.exe) - User: None
+⚠️ Anomaly: PID 9104 (WmiPrvSE.exe) - User: None
+⚠️ Anomaly: PID 9256 (svchost.exe) - User: None
+⚠️ Anomaly: PID 9460 (Code.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 9568 (LocationNotificationWindows.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 9968 (conhost.exe) - User: None
+⚠️ Anomaly: PID 10104 (McCSPServiceHost.exe) - User: None
+⚠️ Anomaly: PID 10440 (svchost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 10448 (svchost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 10500 (powershell.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 10516 (svchost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 10572 (svchost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 11012 (svchost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 11056 (taskhostw.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 11116 (SECOCL64.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 11144 (sihost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 11148 (conhost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 11412 (LockApp.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 11484 (svchost.exe) - User: None
+⚠️ Anomaly: PID 11504 (HPPenControlPlus.Win32.Bg.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 11524 (svchost.exe) - User: None
+⚠️ Anomaly: PID 11872 (svchost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 11948 (HPCC.Bg.BackgroundApp.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 11996 (svchost.exe) - User: None
+⚠️ Anomaly: PID 12068 (UserOOBEBroker.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 12100 (RuntimeBroker.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 12144 (uihost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 12320 (Code.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 12396 (SynTPEnh.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 12560 (svchost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 12660 (RtkAudUService64.exe) - User: None
+⚠️ Anomaly: PID 12832 (svchost.exe) - User: None
+⚠️ Anomaly: PID 12856 (svchost.exe) - User: None
+⚠️ Anomaly: PID 12984 (ctfmon.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 13124 (WidgetService.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 13268 (Screencast-O-Matic.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 13276 (Widgets.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 13632 (svchost.exe) - User: None
+⚠️ Anomaly: PID 13732 (wslservice.exe) - User: None
+⚠️ Anomaly: PID 13956 (HPCC.Bg.BackgroundSys.exe) - User: None
+⚠️ Anomaly: PID 14236 (gamingservices.exe) - User: None
+⚠️ Anomaly: PID 14328 (DesktopExtension.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 14652 (AMDRSServ.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 14724 (TabTip.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 14752 (svchost.exe) - User: None
+⚠️ Anomaly: PID 14888 (SearchHost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 14912 (NisSrv.exe) - User: None
+⚠️ Anomaly: PID 15004 (OmenCommandCenterBackground.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 15024 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 15216 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 15568 (ONENOTEM.EXE) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 15768 (FileCoAuth.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 16176 (HP.myHP.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 16260 (RuntimeBroker.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 16524 (SecurityHealthSystray.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 16552 (SecurityHealthService.exe) - User: None
+⚠️ Anomaly: PID 16740 (RtkAudUService64.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 16800 (mcapexe.exe) - User: None
+⚠️ Anomaly: PID 16864 (crashpad_handler.exe) - User: None
+⚠️ Anomaly: PID 17044 (Rainmeter.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 17184 (MfeAVSvc.exe) - User: None
+⚠️ Anomaly: PID 17480 (mcshield.exe) - User: None
+⚠️ Anomaly: PID 17544 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 17564 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 17732 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 17744 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 17792 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 18216 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 18484 (AppVShNotify.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 18636 (RuntimeBroker.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 19348 (svchost.exe) - User: None
+⚠️ Anomaly: PID 19512 (svchost.exe) - User: None
+⚠️ Anomaly: PID 19516 (Code.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 19852 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 19968 (RuntimeBroker.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 19996 (Screencast-O-Matic.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 20008 (svchost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 20108 (unsecapp.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 20352 (svchost.exe) - User: None
+⚠️ Anomaly: PID 20444 (svchost.exe) - User: None
+⚠️ Anomaly: PID 20600 (RadeonSoftware.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 20896 (HpSystemManagement.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 21000 (ModuleCoreService.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 21008 (conhost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 21468 (cncmd.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 21668 (svchost.exe) - User: None
+⚠️ Anomaly: PID 22240 (HPMediaNetwork.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 22440 (WmiPrvSE.exe) - User: None
+⚠️ Anomaly: PID 22568 (BangOlufsenAudioControl.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 22704 (duet.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 23204 (svchost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 23356 (ApplicationFrameHost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 23620 (svchost.exe) - User: None
+⚠️ Anomaly: PID 23628 (svchost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 23740 (python.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 24040 (dllhost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 24060 (mcafee-security-ft.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 24080 (svchost.exe) - User: None
+⚠️ Anomaly: PID 24308 (svchost.exe) - User: None
+⚠️ Anomaly: PID 24900 (Video.UI.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 24920 (msedge.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 24952 (DiagsCap.exe) - User: None
+⚠️ Anomaly: PID 25084 (Code.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 25244 (powershell.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 25392 (MoUsoCoreWorker.exe) - User: None
+⚠️ Anomaly: PID 26088 (explorer.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 26136 (RuntimeBroker.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 26564 (taskhostw.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 26808 (msedge.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 27652 (conhost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 28244 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 28284 (conhost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 28560 (PrintDialog.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 28936 (PhoneExperienceHost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 29348 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 29520 (SysInfoCap.exe) - User: None
+⚠️ Anomaly: PID 29700 (smartscreen.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 29828 (msedge.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 30356 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 30760 (conhost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 31436 (browserhost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 31448 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 31748 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 32440 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 32716 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 32788 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 33052 (RuntimeBroker.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 33624 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 33864 (NetworkCap.exe) - User: None
+⚠️ Anomaly: PID 34084 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 35440 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 36360 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 36792 (SearchIndexer.exe) - User: None
+⚠️ Anomaly: PID 36804 (MfeBrowserHost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 37232 (java.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 38520 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 39004 (McUICnt.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 39272 (OneDrive.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 39376 (svchost.exe) - User: None
+⚠️ Anomaly: PID 39556 (StartMenuExperienceHost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 40368 (SystemSettings.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 41028 (HPSystemEventUtilityHost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 41388 (Microsoft.SharePoint.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 41996 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 42008 (HPSystemEventUtilityBackground.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 42884 (OmenInstallMonitor.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 43032 (wslinstaller.exe) - User: None
+⚠️ Anomaly: PID 43468 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 45516 (gamingservicesnet.exe) - User: None
+⚠️ Anomaly: PID 45684 (Code.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 45896 (cmd.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 46212 (Code.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 46412 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 46860 (QcShm.exe) - User: None
+⚠️ Anomaly: PID 46864 (OverlayHelper.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 46992 (conhost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 47192 (BridgeCommunication.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 47828 (Code.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 48420 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 48720 (backgroundTaskHost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 49060 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 49424 (Code.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 49656 (svchost.exe) - User: None
+⚠️ Anomaly: PID 50896 (hp-one-agent-service.exe) - User: None
+⚠️ Anomaly: PID 51212 (WmiPrvSE.exe) - User: None
+⚠️ Anomaly: PID 51592 (svchost.exe) - User: None
+⚠️ Anomaly: PID 52116 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 52688 (ms-teams.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 53428 (Code.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 53740 (svchost.exe) - User: None
+⚠️ Anomaly: PID 54712 (GooglePlayGamesServices.exe) - User: None
+⚠️ Anomaly: PID 54724 (msedge.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 55096 (svchost.exe) - User: None
+⚠️ Anomaly: PID 55556 (RuntimeBroker.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 56028 (conhost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 56656 (conhost.exe) - User: None
+⚠️ Anomaly: PID 56816 (msedgewebview2.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 57444 (svchost.exe) - User: None
+⚠️ Anomaly: PID 58420 (TextInputHost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 58668 (SearchProtocolHost.exe) - User: None
+⚠️ Anomaly: PID 58796 (AppHelperCap.exe) - User: None
+⚠️ Anomaly: PID 59212 (OfficeClickToRun.exe) - User: None
+⚠️ Anomaly: PID 59336 (msedge.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 59444 (Code.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 59952 (CmdHelper.exe) - User: None
+⚠️ Anomaly: PID 61688 (ShellExperienceHost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 62508 (chrome.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 62516 (MoNotificationUx.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 62528 (dllhost.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 62688 (SDXHelper.exe) - User: PROFESSIONAL\dusti
+⚠️ Anomaly: PID 62804 (Code.exe) - User: PROFESSIONAL\dusti
+
+====== STARTUP PROCESS ======: 
+Note: To fully check startup entries, this tool must be extended to read registry or startup folder (Windows only).
